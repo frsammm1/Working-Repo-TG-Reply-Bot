@@ -1,0 +1,8 @@
+# External Cron Job Configuration
+# Use cron-job.org or similar service
+
+# Add this URL to cron-job.org:
+# https://[your-koyeb-subdomain].koyeb.app/health
+
+# Schedule: Every 1 minute
+# This will keep your bot alive 24/7
